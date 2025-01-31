@@ -1,5 +1,4 @@
 # PizzaTime - кнопка для заказа пиццы с помощью ESP32
-[![тут должно было быть видео](https://img.youtube.com/vi/6Nl7IEtmYt4/maxresdefault.jpg)](https://youtu.be/6Nl7IEtmYt4)
 
 ## Описание
 PizzaTime button - это устройство на базе ESP32 для заказа пиццы из Papa John's одним нажатием кнопки.
@@ -29,7 +28,7 @@ PizzaTime button - это устройство на базе ESP32 для зак
 1. Склонируйте репозиторий с подмодулями:
 
 ```bash
-git clone --recursive https://github.com/skrepkaq/pizza-time.git
+git clone --recursive https://github.com/y0zhyck/pizza-time.git
 ```
 2.  Откройте проект в [PlatformIO](https://platformio.org/install/integration/)
 

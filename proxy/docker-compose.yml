@@ -1,0 +1,7 @@
+services:
+  pizza-proxy:
+    build: .
+    container_name: pizza-proxy
+    ports:
+      - 5009:5009
+    restart: unless-stopped
